@@ -1,5 +1,5 @@
 {
-	"name": "webvimark/components",
+	"name": "miguelhatrick/webvimarkcomponents",
 	"description": "Components for yii 2",
 	"require": {
 		"webvimark/image": "^1.0.0",
