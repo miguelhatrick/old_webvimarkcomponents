@@ -1,5 +1,5 @@
 <?php
-namespace webvimark\components;
+namespace miguelhatrick\webvimarkcomponents;
 
 
 use yii\grid\DataColumn;
