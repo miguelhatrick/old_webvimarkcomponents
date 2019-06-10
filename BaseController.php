@@ -1,6 +1,6 @@
 <?php
 
-namespace miguelhatrick\components;
+namespace miguelhatrick\webvimarkcomponents;
 use miguelhatrick\modules\UserManagement\components\GhostAccessControl;
 use Yii;
 use yii\web\Controller;
